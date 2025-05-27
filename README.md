@@ -14,7 +14,7 @@ A machine learning-based system for detecting phishing emails using BERT model a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Phishing_Email_Detection_System.git
+git clone https://github.com/akshatshakya27/Phishing_Email_Detection_System.git
 cd Phishing_Email_Detection_System
 ```
 
